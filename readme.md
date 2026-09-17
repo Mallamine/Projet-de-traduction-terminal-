@@ -29,6 +29,6 @@ LexiAcces — Assistant de Traduction & Synthèse Vocale
 
 ```text
 LexiAcces/
-├── main.py          # Script principal (GUI, logique de traduction & TTS)
-├── .gitignore       # Fichiers et dossiers ignorés par Git
-└── README.md        # Documentation du projet
+├── .gitignore      # Script principal (GUI, logique de traduction & TTS)
+├──  LexiAcess.py   # Fichiers et dossiers ignorés par Git
+└──  README.md      # Documentation du projet
